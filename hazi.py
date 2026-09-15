@@ -1,5 +1,4 @@
 import math as matek
-"""
 #1
 nev = str(input("Neved: "))
 ev = int(input("Születési éved: "))
@@ -96,7 +95,6 @@ print(f"BMI {testsuly/magassag**2}")
 #17
 alomsuly = float(input("Célsúly"))
 print(f"első hét végére: {testsuly-(testsuly-alomsuly/3)} \n második hét végére: {testsuly-(testsuly-alomsuly/3*2)} \n harmadik hét végére {testsuly-(testsuly-alomsuly)}")
-"""
 
 """
 első hét testsuly-(testsuly-alomsuly/3)
