@@ -1,6 +1,6 @@
 // Utó irat, 3 órája szopok ezzel és közel sincs a vége XD
 //tutorial vid: https://www.geeksforgeeks.org/java/ways-to-read-input-from-console-in-java/
-// Mási tutorial oldal: https://www.w3schools.com/java/
+// Másik tutorial oldal: https://www.w3schools.com/java/
 
 import java.util.Scanner;
 //keret = int(input("keret normál ára:"))
